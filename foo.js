@@ -1,0 +1,4 @@
+
+$.require("blah", "X");
+
+
